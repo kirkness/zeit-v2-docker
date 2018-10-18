@@ -1,0 +1,7 @@
+{
+  "name": "restarting",
+  "type": "docker",
+  "features": {
+    "cloud": "v1"
+  }
+}

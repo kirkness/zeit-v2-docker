@@ -1,0 +1,6 @@
+{
+  "name": "zeit-v2-docker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT"
+}
